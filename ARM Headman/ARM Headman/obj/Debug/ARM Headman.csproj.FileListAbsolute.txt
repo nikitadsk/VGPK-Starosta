@@ -1,0 +1,19 @@
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\bin\Debug\ARM Headman.exe.config
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\bin\Debug\ARM Headman.exe
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\bin\Debug\ARM Headman.pdb
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM Headman.csprojAssemblyReference.cache
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.LoadMenu.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.Properties.Resources.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM Headman.csproj.GenerateResource.cache
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM Headman.csproj.CoreCompileInputs.cache
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM Headman.exe
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM Headman.pdb
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.CreateFile.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.HumanInfoGroupBox.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.OpenDialog.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.MainForm.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.Controls.LessonGroupBox.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.ReportForm.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.Controls.DayGroupBox.resources
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM Headman.csproj.ResolveComReference.cache
+D:\Program\GitHub\Kursachi\КПиЯП\ARM Headman\ARM Headman\obj\Debug\ARM_Headman.VedomostForm.resources
